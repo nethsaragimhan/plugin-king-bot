@@ -246,9 +246,9 @@
         "updater": {
             "UPDATER_DESC": "Check for updates.",
             "UPDATE": "*[🇱🇰𝙺𝙸𝙽𝙶 𝙱𝙾𝚃🤘] is completely updated!✅*",
-            "NEW_UPDATE": "*Your bot have some updates!*\nType *.update now* to update your bot...\nPlease ask from [🇱🇰𝙺𝙸𝙽𝙶 𝙱𝙾𝚃🤘]official support group...\n\nChanges:\n```",
+            "NEW_UPDATE": "*Your bot have some updates!*\nType *.update now* to update your bot...\n\nPlease ask from [🇱🇰𝙺𝙸𝙽𝙶 𝙱𝙾𝚃🤘]official support group...\n\nChanges:\n```",
             "UPDATE_NOW_DESC": "Updating your bot",
-            "UPDATING": "🕴️ Updating...🇱🇰 ➢_",
+            "UPDATING": "🕴️ Updating...🇱🇰 ➢ </>",
             "INVALID_HEROKU": "*❌ Your HEROKU_API_KEY wrong! Visit https://dashboard.heroku.com/account . Scroll down to API key. Click reveal buttong. Copy that API key and paste it in HEROKU_API_KEY config vars.*",
             "UPDATED": "*✅ Successfully updated!*",
             "UPDATED_LOCAL": "*✅ Successfully updated!*",

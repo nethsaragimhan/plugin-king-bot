@@ -246,9 +246,9 @@
         "updater": {
             "UPDATER_DESC": "Updates පරීක්ෂා කරයි.",
             "UPDATE": "*[🇱🇰𝙺𝙸𝙽𝙶 𝙱𝙾𝚃🤘] සම්පූර්ණයෙන්ම යාවත්කාලීනයි!✅*",
-            "NEW_UPDATE": "*[🇱🇰𝙺𝙸𝙽𝙶 𝙱𝙾𝚃🤘] Bot සඳහා නව යාවත්කාලීන කිරීම් තිබේ!*\n.update now ටයිප් කර update කරගත හැක.\n⚠Update කිරීමට පෙර [🇱🇰𝙺𝙸𝙽𝙶 𝙱𝙾𝚃🤘] Official support group එකෙන් විමසන්න...️️⚠️️\n\nවෙනස්කම්:\n```",
+            "NEW_UPDATE": "*[🇱🇰𝙺𝙸𝙽𝙶 𝙱𝙾𝚃🤘] Bot සඳහා නව යාවත්කාලීන කිරීම් තිබේ!*\n.update now ටයිප් කර update කරගත හැක.\n\n⚠Update කිරීමට පෙර [🇱🇰𝙺𝙸𝙽𝙶 𝙱𝙾𝚃🤘] Official support group එකෙන් විමසන්න...️️⚠️️\n\nවෙනස්කම්:\n```",
             "UPDATE_NOW_DESC": "එය යාවත්කාලීන කරයි.",
-            "UPDATING": "🕴️ Updating... 🇱🇰➢_",
+            "UPDATING": "🕴️ Updating... 🇱🇰 ➢ </>",
             "INVALID_HEROKU": "*❌ ඔබේ HEROKU_API_KEY තොරතුරු වැරදිය! https://dashboard.heroku.com/account මෙම link ක්ලික් කරන්න. API key සඳහා පහළට scroll කරන්න. ඉන්පසු Reveal බොත්තම ක්ලික් කරන්න. එම API key copy කර Heroku config vars හිස් කොටුව paste කරන්න.*",
             "UPDATED": "*✅ [🇱🇰𝙺𝙸𝙽𝙶 𝙱𝙾𝚃🤘] සාර්ථකව update කරන ලදි!*",
             "UPDATED_LOCAL": "*✅ [🇱🇰𝙺𝙸𝙽𝙶 𝙱𝙾𝚃🤘] සාර්ථකව update කරන ලදි!*",
